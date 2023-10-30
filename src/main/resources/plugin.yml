@@ -1,0 +1,7 @@
+name: DungeonsAndDragons
+version: '${project.version}'
+main: com.beauver.dungeonsanddragons.DungeonsAndDragons
+api-version: '1.20'
+authors: [Beauver, Sebiann]
+description: Another dnd plugin
+website: portofolio.beauver.com
